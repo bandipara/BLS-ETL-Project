@@ -2,9 +2,9 @@
 Maria-Elena Gorini, Bhargav Andipara, Bhoomika Patel , Saniya Sule.
 
 ## Extraction:
-
 We used 2 datasets from the public platform 
-https://www.bls.gov/ and https://www.zillow.com/
+### https://www.bls.gov/ 
+### https://www.zillow.com/
 All of our data was based on county through all the States ranging over various years from 2015 to 2018.We extracted the data with API, csv and text.
 
 
