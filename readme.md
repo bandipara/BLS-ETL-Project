@@ -2,7 +2,7 @@
 Maria-Elena Gorini, Bhargav Andipara, Bhoomika Patel , Saniya Sule.
 
 ## Extraction:
-We used 2 datasets from the public platform
+Data Sources:
 
 ### Bureau of Labor: https://www.bls.gov/ 
 ### Zillow: https://www.zillow.com/
@@ -14,7 +14,7 @@ Our first steps in cleaning up the datasets involved figuring out which variable
 
 1. CSV - We merged the data for years and concatenated it. Created a new data with the required columns 
 
-2. Zillow API -XML Data extract from Zillow. Transformed into JSON using XMLtoDICT library in python
+2. Zillow API -XML Data extract from Zillow. Transformed into JSON using `xmltodict` library in python
 
 3. BLS API – We extracted data from BLS through API and stored and created to data frame for Total, employment and unemployment and then created the data frame.
 
