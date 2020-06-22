@@ -8,7 +8,7 @@ Maria-Elena Gorini, Bhargav Andipara, Bhoomika Patel , Saniya Sule.
 #### Zillow: https://www.zillow.com/
 
 ### Granularity:
-Geography: by county/state  
+Geography: by County/State  
 Years: 2015 to 2018
 
 ### Format:
