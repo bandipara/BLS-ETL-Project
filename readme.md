@@ -2,8 +2,8 @@
 Maria-Elena Gorini, Bhargav Andipara, Bhoomika Patel , Saniya Sule.
 
 ## Extraction:
-### Data Sources:
 
+### Data Sources:
 #### Bureau of Labor: https://www.bls.gov/ 
 #### Zillow: https://www.zillow.com/
 
