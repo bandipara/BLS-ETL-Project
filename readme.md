@@ -28,10 +28,10 @@ We queried the data using `SQL script` in PostgreSQL and in python using `sqlalc
 ## Summary
 The objective of this ETL is to extract and merge information of Wages, Employment, Unemployment and Median House Prices for each county of New Jersey. The final output has the tables for:
 
-•	Civilian labor Population
-•	Unemployment and Employment 
-•	Median Household Income
-•	Median house prices
+•	Civilian labor Population  
+•	Unemployment and Employment   
+•	Median Household Income  
+•	Median house prices  
 
 ![](/Images/DBDimage.PNG)
 
