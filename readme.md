@@ -2,12 +2,20 @@
 Maria-Elena Gorini, Bhargav Andipara, Bhoomika Patel , Saniya Sule.
 
 ## Extraction:
-Data Sources:
+### Data Sources:
 
-### Bureau of Labor: https://www.bls.gov/ 
-### Zillow: https://www.zillow.com/
+#### Bureau of Labor: https://www.bls.gov/ 
+#### Zillow: https://www.zillow.com/
 
-All of our data was based on county through all the States ranging over various years from 2015 to 2018. We extracted the data with API, CSV and in text format.
+### Granularity:
+Geography: by county/state
+Years: 2015 to 2018
+
+### Format:
+•	API  
+•	CSV   
+•	TEXT
+
 
 ## Transformation:
 Our first steps in cleaning up the datasets involved figuring out which variables were irrelevant and cleaning up the data
