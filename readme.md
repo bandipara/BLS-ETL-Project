@@ -12,9 +12,9 @@ All of our data was based on county through all the States ranging over various 
 ## Transformation:
 Our first steps in cleaning up the datasets involved figuring out which variables were irrelevant and cleaning up the data
 
-1. CSV - We merged the data for years and concatenated it. Created a new data with the required columns 
+1. CSV - We merged the data for years and concatenated it. Created a new data with the required columns. 
 
-2. Zillow API -XML Data extract from Zillow. Transformed into JSON using `xmltodict` library in python
+2. Zillow API -XML Data extract from Zillow. Transformed into JSON using `xmltodict` library in python.
 
 3. BLS API – We extracted data from BLS through API and stored and created to data frame for Total, employment and unemployment and then created the data frame.
 
@@ -26,8 +26,7 @@ We queried the data using `SQL script` in PostgreSQL and in python using `sqlalc
 
 
 ## Summary
-
-We used these datasets so we could identify the unemployment rates per county for the state of new jersey including wages and median house prices. The final output has the tables for 
+The objective of this ETL is to extract and merge information of Wages, Employment, Unemployment and Median House Prices for each county of New Jersey. The final output has the tables for:
 
 •	Civilian labor Population
 •	Unemployment and Employment 
