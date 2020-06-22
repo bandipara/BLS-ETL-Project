@@ -19,8 +19,8 @@ Our first steps in cleaning up the datasets involved figuring out which variable
 3. BLS API – We extracted data from BLS through API and stored and created to data frame for Total, employment and unemployment and then created the data frame.
 
 ## Load:
-The last step was to transfer our final output into a Database. We created a database and respective tables 
-We queried the data using MySQL that returns desired outputs 
+The last step was to transfer our final output into a Database. We created a database and respective tables in PostgreSQL. 
+We queried the data using `SQL script` in PostgreSQL and in python using `sqlalchemy` library.
 
 ![](/Images/flowchart.PNG)
 
